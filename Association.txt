@@ -1,0 +1,15 @@
+http://www.usc.edu	C:\Users\Faris\workspace\Crawler\1941262776
+http://www.ucr.edu	C:\Users\Faris\workspace\Crawler\769912081
+http://www.ucr.edu/alpha.html	C:\Users\Faris\workspace\Crawler\2790291729
+http://campusmap.ucr.edu	C:\Users\Faris\workspace\Crawler\1636938064
+http://www.ucr.edu/find_people.php	C:\Users\Faris\workspace\Crawler\4270074956
+http://www.osu.edu	C:\Users\Faris\workspace\Crawler\1606152218
+http://www.ucr.edu/about	C:\Users\Faris\workspace\Crawler\3632212619
+http://www.ucr.edu/academics	C:\Users\Faris\workspace\Crawler\241222035
+http://www.ucr.edu/athletics	C:\Users\Faris\workspace\Crawler\751052298
+http://www.ucr.edu/research	C:\Users\Faris\workspace\Crawler\2744916631
+http://www.ucr.edu/happenings	C:\Users\Faris\workspace\Crawler\3803437510
+http://www.ucr.edu/resources	C:\Users\Faris\workspace\Crawler\4103289247
+http://www.ucr.edu/giving	C:\Users\Faris\workspace\Crawler\1391416354
+http://www.ucr.edu/future	C:\Users\Faris\workspace\Crawler\2347717610
+http://www.ucr.edu/students	C:\Users\Faris\workspace\Crawler\1344194535

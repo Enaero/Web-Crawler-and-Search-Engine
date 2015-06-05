@@ -1,0 +1,3 @@
+http://www.citrusgenome.ucr.edu
+
+EventsJGI - Why Sequence Sweet Orange? http://www.jgi.doe.gov/sequencing/why/3128.html--- To obtain JGI sweet orange genomic sequences corresponding to a citrus ESTs: 1) Do a BLAST search at? the server : http://harvest-blast.org/ ?????? In the Database box at the top of the page, select "JGI Citrus".? ?????? This will return the BLAST hits 2) To fetch the actual sequences, go to http://harvest-web.org/utilmenu.wc?job=JGI_Citmenu This allows you to enter a text file of sequence ids and retrieve the sequences.---Coming soon, a multi-hundred locus gene-specific map of C. sinensis, with synteny to Arabidopsis and Poplar.?
